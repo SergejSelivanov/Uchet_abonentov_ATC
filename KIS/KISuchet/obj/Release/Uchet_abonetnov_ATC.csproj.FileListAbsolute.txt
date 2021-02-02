@@ -1,0 +1,313 @@
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csprojAssemblyReference.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddCharckters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddOborudovanie.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddRekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.BuchgalterForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.CharactersDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.DirectorForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditCharackters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditOborudovanie.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditPersonalData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.editRekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddTest1.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditTest.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Linia_Characters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.LoginForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.ManagerForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OperatorForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalDataDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Properties.Resources.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RegisterForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Rekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RekvisitiDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.GenerateResource.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.CoreCompileInputs.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe.config
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.pdb
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Zstandard.Net.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.CopyComplete
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.exe
+C:\Users\seliv\OneDrive\Рабочий стол\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.pdb
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe.config
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.pdb
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Zstandard.Net.dll
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csprojAssemblyReference.cache
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddCharckters.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddOborudovanie.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddRekvisiti.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.BuchgalterForm.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.CharactersDirector.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.DirectorForm.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditCharackters.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditOborudovanie.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditPersonalData.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.editRekvisiti.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddTest1.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditTest.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Linia_Characters.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.LoginForm.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.ManagerForm.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieDirector.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieForm.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OperatorForm.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalData.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalDataDirector.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Properties.Resources.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RegisterForm.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Rekvisiti.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RekvisitiDirector.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestDirector.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestForm.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.GenerateResource.cache
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.CopyComplete
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.exe
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.pdb
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Database1.mdf
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Database1_log.ldf
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.GlavBuchForm.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RekvisitiGlavBuch.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.SeeGlavBuch.resources
+C:\Users\Владимир\Desktop\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddFirmData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csprojAssemblyReference.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddCharckters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddFirmData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddOborudovanie.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddRekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.BuchgalterForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.CharactersDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.DirectorForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditCharackters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditOborudovanie.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditPersonalData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.editRekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddTest1.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditTest.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.GlavBuchForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Linia_Characters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.LoginForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.ManagerForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OperatorForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalDataDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Properties.Resources.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RegisterForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Rekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RekvisitiDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RekvisitiGlavBuch.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.SeeGlavBuch.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.GenerateResource.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.CoreCompileInputs.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.exe
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.pdb
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Database1.mdf
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Database1_log.ldf
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe.config
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.pdb
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Zstandard.Net.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Логачев\Логачев\Информационная система (2)\ИС\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.CopyComplete
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Database1.mdf
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Database1_log.ldf
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe.config
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.pdb
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Zstandard.Net.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csprojAssemblyReference.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddCharckters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddFirmData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddOborudovanie.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddRekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.BuchgalterForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.CharactersDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.DirectorForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditCharackters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditOborudovanie.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditPersonalData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.editRekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddTest1.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditTest.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.GlavBuchForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Linia_Characters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.LoginForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.ManagerForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OperatorForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalDataDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Properties.Resources.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RegisterForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Rekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RekvisitiDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RekvisitiGlavBuch.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.SeeGlavBuch.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.GenerateResource.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.CoreCompileInputs.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.CopyComplete
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.exe
+C:\Users\seliv\OneDrive\Рабочий стол\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.pdb
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Database1.mdf
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Database1_log.ldf
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe.config
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.exe
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Uchet_abonetnov_ATC.pdb
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Zstandard.Net.dll
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Google.Protobuf.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\MySql.Data.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\Renci.SshNet.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Buffers.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Memory.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Numerics.Vectors.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csprojAssemblyReference.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddCharckters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddFirmData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddOborudovanie.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddRekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.BuchgalterForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.CharactersDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.DirectorForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditCharackters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditOborudovanie.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditPersonalData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.editRekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.AddTest1.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.EditTest.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.GlavBuchForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Linia_Characters.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.LoginForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.ManagerForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OborudovanieForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.OperatorForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalData.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.PersonalDataDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Properties.Resources.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RegisterForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.Rekvisiti.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RekvisitiDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.RekvisitiGlavBuch.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.SeeGlavBuch.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestDirector.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.TestForm.resources
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.GenerateResource.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.CoreCompileInputs.cache
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.csproj.CopyComplete
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.exe
+C:\Users\seliv\OneDrive\Рабочий стол\Портфолио\Унивенрситет\KIS\Kis\Uchet_abonetnov_ATC\Uchet_abonetnov_ATC\obj\Release\Uchet_abonetnov_ATC.pdb
